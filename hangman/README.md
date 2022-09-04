@@ -1,7 +1,7 @@
 # Hangman
 A simply terminal version of the hangman game.
 ## Installation
-Clone the folder into yor computer and rum the following code on the terminal
+Clone the folder into yor computer and rum the following command on the terminal
 ```bash
 python3 hangman.py
 ```
