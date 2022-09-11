@@ -21,7 +21,7 @@ while more_bidders:
   bidder_name = input("What is your name: ")
   bidder_bid = int(input("What's your bid?: $"))
   bids[bidder_name] = bidder_bid
-  flag = input("Are ther any other bid?: Yes or No ").lower()
+  flag = input("Are there any other bid?: Yes or No ").lower()
   if flag == "yes":
     os.system('clear')
   else:
